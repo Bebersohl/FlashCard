@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashCard", "FlashCard\FlashCard.csproj", "{2E87654C-C261-4577-8B76-53E1EA922A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E87654C-C261-4577-8B76-53E1EA922A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E87654C-C261-4577-8B76-53E1EA922A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E87654C-C261-4577-8B76-53E1EA922A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E87654C-C261-4577-8B76-53E1EA922A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

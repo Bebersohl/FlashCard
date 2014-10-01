@@ -1,0 +1,12 @@
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\bin\Debug\FlashCard.exe.config
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\bin\Debug\FlashCard.exe
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\bin\Debug\FlashCard.pdb
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.csprojResolveAssemblyReference.cache
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.Form1.resources
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.Properties.Resources.resources
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.csproj.GenerateResource.Cache
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.exe
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.pdb
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\Interop.ACTIVEXLib.dll
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.csproj.ResolveComReference.cache
+c:\users\brand_000\documents\visual studio 2012\Projects\FlashCard\FlashCard\obj\Debug\FlashCard.Form2.resources
